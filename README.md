@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pushpakgoel621
+- 👋 Hi, I’m pushpakgoel56@gmail.com
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning an opportunity to enhance my skills
 - 💞️ I’m looking to collaborate on projects
