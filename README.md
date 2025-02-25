@@ -1,5 +1,5 @@
 # Hi there, I'm Pushpak Goel! 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Artificial+Intelligence;Machine+Learning;AI+Agents)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F75C7E&width=435&lines=Artificial+Intelligence;Machine+Learning;AI+Agents)
 ![Profile Banner](https://your-banner-image-url.com)
 
 ## 🚀 About Me
@@ -30,9 +30,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 🎯 What I'm Currently Working On
 
-🔹 Preparing for **Cisco Training Exam** (Python & Networking)  
-🔹 Expanding **CosmoGreen** & working on energy-efficient solutions.  
-🔹 Exploring **AI Agents & Web3** Technologies.  
+🔹 Exploring **AI Agents** Technologies.  
 🔹 Organizing **Tech Talks & Hackathons** @ Innocrats  
 
 ## 🌍 Let's Connect!
