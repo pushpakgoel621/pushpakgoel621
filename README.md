@@ -1,5 +1,6 @@
 # Hi there, I'm Pushpak Goel! 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F75C7E&width=435&lines=Artificial+Intelligence;Machine+Learning;AI+Agents)
+
 ![Profile Banner](https://your-banner-image-url.com)
 
 ## 🚀 About Me
@@ -35,10 +36,12 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 🌍 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-PushpakGoyal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpakgoel) 
-[![Twitter](https://img.shields.io/badge/Twitter-PushpakGoel621-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pushpakgoel621) 
-[![Email](https://img.shields.io/badge/Email-PushpakGoel621%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pushpakgoel621@gmail.com) 
-🚀 _Thanks for stopping by! Let's build something amazing together!_ ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushpak Goel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpakgoel56) 
+[![Twitter](https://img.shields.io/badge/Twitter-PushpakGoel621-blue?style=for-the-badge&logo=twitter)](https://x.com/goel_pushpak) 
+[![Email](https://img.shields.io/badge/Email-PushpakGoel56%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pushpakgoel56@gmail.com) 
+
+🚀 _Thanks for stopping by! 
+Let's build something amazing together!_ ✨
 
 
 <!---
