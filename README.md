@@ -1,24 +1,18 @@
 # Hi there, I'm Pushpak Goel! 👋
 
-![Profile Banner](https://your-banner-image-url.com) *(Optional: Add a personal touch!)*
+![Profile Banner](https://your-banner-image-url.com)
 
 ## 🚀 About Me
 
-🎓 **Computer Science Engineering Student** | 💻 **Tech Enthusiast** | 🚀 **Startup Founder**  
+🎓 **Computer Science Engineering Student** | 💻 **Tech Enthusiast** | 🚀 **AIML Enthusiast**  
 I'm passionate about **AI, Web Development, and Product Engineering**. I thrive on solving complex problems, building impactful tech solutions, and collaborating with like-minded individuals.  
 
-🔹 **Founder @ CosmoGreen** – Innovating sustainable E-Rickshaw batteries.  
-🔹 **Tech Lead @ Innocrats Technical Club** – Driving technical initiatives & mentorship.  
-🔹 **Web Dev Consultant** – Creating dynamic websites & AI-driven applications.
+🔹 **President @ Innocrats Technical Club** – Driving technical initiatives & mentorship.  
+🔹 **AI Agents Consultant** – Creating dynamic websites & AI-driven applications.
 
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -46,8 +40,6 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PushpakGoyal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpakgoel) 
 [![Twitter](https://img.shields.io/badge/Twitter-PushpakGoel621-blue?style=for-the-badge&logo=twitter)](https://twitter.com/pushpakgoel621) 
 [![Email](https://img.shields.io/badge/Email-PushpakGoel621%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pushpakgoel621@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-PushpakGoel.dev-orange?style=for-the-badge&logo=firefox)](https://pushpakgoel.dev) *(If available)*  
-
 🚀 _Thanks for stopping by! Let's build something amazing together!_ ✨
 
 
