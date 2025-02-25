@@ -36,7 +36,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 🌍 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pushpak Goel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpakgoel56) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PushpakGoel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpakgoel56) 
 [![Twitter](https://img.shields.io/badge/Twitter-PushpakGoel621-blue?style=for-the-badge&logo=twitter)](https://x.com/goel_pushpak) 
 [![Email](https://img.shields.io/badge/Email-PushpakGoel56%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pushpakgoel56@gmail.com) 
 
