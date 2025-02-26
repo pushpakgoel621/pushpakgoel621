@@ -1,8 +1,6 @@
 # Hi there, I'm Pushpak Goel! 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F75C7E&width=435&lines=Artificial+Intelligence;Machine+Learning;AI+Agents)
 
-![Profile Banner](https://your-banner-image-url.com)
-
 ## 🚀 About Me
 
 🎓 **Computer Science Engineering Student** | 💻 **Tech Enthusiast** | 🚀 **AIML Enthusiast**  
@@ -19,7 +17,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 📌 Featured Projects
 
-🔹 [🚰 AI Groundwater Chatbot](https://github.com/pushpakgoel621/ai-groundwater-chatbot) – AI chatbot for groundwater management & insights.  
+🔹 [🚰 AI Groundwater Chatbot](https://github.com/pushpakgoel621/ai-groundwater-chatbot) – AI chatbot for groundwater management & insights.\n\n\n
 🔹 [🎬 Co-Movies](https://github.com/pushpakgoel621/co-movies) – Collaborative movie recommendation system.  
 🔹 [🤖 Foguss](https://github.com/pushpakgoel621/foguss) – Python automation project for efficiency.  
 🔹 [🏆 Duke AI Hackathon](https://github.com/pushpakgoel621/Duke-Generative-AI-Hackathon) – AI-powered project from Duke Hackathon.  
