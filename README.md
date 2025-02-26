@@ -17,7 +17,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 📌 Featured Projects
 
-🔹 [🚰 AI Groundwater Chatbot](https://github.com/pushpakgoel621/ai-groundwater-chatbot) – AI chatbot for groundwater management & insights.   
+🔹 [🚰 Jal Snadhana AI Groundwater Chatbot]([https://github.com/pushpakgoel621/ai-groundwater-chatbot](https://github.com/pushpakgoel621/Jal-Sandhana-SIH24-Project.git)) – AI chatbot for groundwater management & insights.   
 🔹 [🎬 Co-Movies](https://github.com/pushpakgoel621/co-movies) – Collaborative movie recommendation system.  
 🔹 [🤖 Foguss](https://github.com/pushpakgoel621/foguss) – Python automation project for efficiency.  
 🔹 [🏆 Duke AI Hackathon](https://github.com/pushpakgoel621/Duke-Generative-AI-Hackathon) – AI-powered project from Duke Hackathon.  
