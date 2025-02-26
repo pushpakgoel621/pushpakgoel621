@@ -17,7 +17,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 📌 Featured Projects
 
-🔹 [🚰 AI Groundwater Chatbot](https://github.com/pushpakgoel621/ai-groundwater-chatbot) – AI chatbot for groundwater management & insights.\n\n\n
+🔹 [🚰 AI Groundwater Chatbot](https://github.com/pushpakgoel621/ai-groundwater-chatbot) – AI chatbot for groundwater management & insights.   
 🔹 [🎬 Co-Movies](https://github.com/pushpakgoel621/co-movies) – Collaborative movie recommendation system.  
 🔹 [🤖 Foguss](https://github.com/pushpakgoel621/foguss) – Python automation project for efficiency.  
 🔹 [🏆 Duke AI Hackathon](https://github.com/pushpakgoel621/Duke-Generative-AI-Hackathon) – AI-powered project from Duke Hackathon.  
@@ -36,7 +36,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PushpakGoel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpakgoel56) 
 [![Twitter](https://img.shields.io/badge/Twitter-PushpakGoel-blue?style=for-the-badge&logo=twitter)](https://x.com/goel_pushpak) 
-[![Email](https://img.shields.io/badge/Email-PushpakGoel56%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pushpakgoel56@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-pushpakgoel56%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:pushpakgoel56@gmail.com) 
 
 🚀 _Thanks for stopping by! 
 Let's build something amazing together!_ ✨
