@@ -24,8 +24,8 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpakgoel621&show_icons=true&theme=radical&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakgoel621&layout=compact&theme=radical&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpakgoel621&show_icons=true&theme=radical&cache_seconds=60)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakgoel621&layout=compact&theme=radical&cache_seconds=60)
 
 ## 🎯 What I'm Currently Working On
 
