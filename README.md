@@ -29,13 +29,13 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 🎯 What I'm Currently Working On
 
-🔹 Exploring **AI Agents** Technologies.  
-🔹 Organizing **Tech Talks & Hackathons** @ Innocrats  
+🔹 Exploring and developing **AI Agentic** Technologies.  
+🔹 **President** @ Innocrats  
 
 
 
 ![Hacktara23'_Runner-Up_certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Hacktara23'_Runner-Up_certificate.jpeg)
-![Product_Matters_4.0_Certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Product_Matters_4.0_Certificate.png)
+![Product_Matters_4.0_Certificate](https://raw.githubusercontent.com/pushpakgoel621/assets/Product_Matters_4.0_Certificate.png)
 ![Hack2skill-Certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Hack2skill-Certificate.png)
 ![PUSHPAK_GOEL_Tiranga_certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/PUSHPAK_GOEL_Tiranga_certificate.png)
 ![Yoga_Day_24_Certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Yoga_Day_24_Certificate.png)
