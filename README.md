@@ -34,19 +34,21 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 
 
-![Hacktara23'_Runner-Up_certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Hacktara23'_Runner-Up_certificate.jpeg)
-![Product_Matters_4.0_Certificate](https://raw.githubusercontent.com/pushpakgoel621/assets/Product_Matters_4.0_Certificate.png)
-![Hack2skill-Certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Hack2skill-Certificate.png)
-![PUSHPAK_GOEL_Tiranga_certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/PUSHPAK_GOEL_Tiranga_certificate.png)
-![Yoga_Day_24_Certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Yoga_Day_24_Certificate.png)
-![QuizX_certificate_of_participation](https://raw.githubusercontent.com/pushpakgoel621/main/assets/QuizX_certificate_of_participation.jpg)
-![Machine_Learning_Techniques_Certificate_ Pushpak_Goel](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Teachnook.jpg)
-![Techstars_startup_Weekend_Certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Techstars_startup_Weekend_Certificate.jpeg)
-[📄 Download My Resume](https://github.com/pushpakgoel621/main/raw/main/assets/Pushpak_Goel_Resume.pdf)
-[📄 View My Resume](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)
-[Pushpak_Goel_Internship_Certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.pdf)
-[Pushpak_Goel_Internship_Certificate_PM](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.pdf)
-[SIH24_Certificate](https://raw.githubusercontent.com/pushpakgoel621/main/assets/SIH24_Certificate.pdf)
+![Hacktara23' Runner-Up Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Hacktara23_Runner-Up_certificate.jpeg)
+![Product Matters 4.0 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Product_Matters_4.0_Certificate.png)
+![Hack2skill Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Hack2skill-Certificate.png)
+![Pushpak Goel Tiranga Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/PUSHPAK_GOEL_Tiranga_certificate.png)
+![Yoga Day 24 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Yoga_Day_24_Certificate.png)
+![QuizX Certificate of Participation](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/QuizX_certificate_of_participation.jpg)
+![Machine Learning Techniques Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Teachnook.jpg)
+![Techstars Startup Weekend Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Techstars_startup_Weekend_Certificate.jpeg)
+
+[📄 Download My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)  
+[📄 View My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)  
+
+[Pushpak Goel Internship Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.pdf)  
+[Pushpak Goel Internship Certificate PM](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.pdf)  
+[SIH24 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.pdf)  
 
 
 ## 🌍 Let's Connect!
