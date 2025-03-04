@@ -47,6 +47,9 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 [📄 View My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)  
 
 [📄 View My Resume](https://docs.google.com/gview?url=https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)
+[📄 View My Resume](https://docs.google.com/gview?url=https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)
+[📄 View My Resume](https://github.com/pushpakgoel621/pushpakgoel621/blob/main/assets/Pushpak_Goel_Resume.pdf)
+
 
 
 
