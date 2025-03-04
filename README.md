@@ -24,8 +24,8 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpakgoel621&show_icons=true&theme=radical&cache_seconds=60)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakgoel621&layout=compact&theme=radical&cache_seconds=60)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpakgoel621&show_icons=true&theme=radical&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpakgoel621&layout=compact&theme=radical&cache_seconds=86400)
 
 ## 🎯 What I'm Currently Working On
 
@@ -44,7 +44,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 ![Techstars Startup Weekend Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Techstars_startup_Weekend_Certificate.jpeg)
 
 [📄 Download My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)  
-[📄 View My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.png)  
+![📄 View My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.png)  
 
 <!---[📄 View My Resume](https://docs.google.com/gview?url=https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)
 [📄 View My Resume](https://docs.google.com/gview?url=https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)
@@ -53,9 +53,9 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 
 
-[Pushpak Goel Internship Certificate](https://rawgithubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.png)  
-[Pushpak Goel Internship Certificate PM](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.png)  
-[SIH24 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.png)  
+![Pushpak Goel Internship Certificate](https://rawgithubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.png)  
+![Pushpak Goel Internship Certificate PM](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.png)  
+![SIH24 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.png)  
 
 
 
