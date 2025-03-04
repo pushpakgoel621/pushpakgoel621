@@ -32,6 +32,20 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 🔹 Exploring **AI Agents** Technologies.  
 🔹 Organizing **Tech Talks & Hackathons** @ Innocrats  
 
+
+
+![Alt Text](https://raw.githubusercontent.com/pushpakgoel621/main/assets/image.png)
+![Alt Text](https://raw.githubusercontent.com/pushpakgoel621/main/assets/image.png)
+![Alt Text](https://raw.githubusercontent.com/pushpakgoel621/main/assets/image.png)
+![Alt Text](https://raw.githubusercontent.com/pushpakgoel621/main/assets/image.png)
+![Alt Text](https://raw.githubusercontent.com/pushpakgoel621/main/assets/image.png)
+![Alt Text](https://raw.githubusercontent.com/pushpakgoel621/main/assets/image.png)
+![Alt Text](https://raw.githubusercontent.com/pushpakgoel621/main/assets/image.png)
+![Alt Text](https://raw.githubusercontent.com/pushpakgoel621/main/assets/image.png)
+[📄 Download My Resume](https://github.com/pushpakgoel621/main/raw/main/assets/Pushpak_Goel_Resume.pdf)
+[📄 View My Resume](https://raw.githubusercontent.com/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)
+
+
 ## 🌍 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PushpakGoel-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pushpakgoel56) 
