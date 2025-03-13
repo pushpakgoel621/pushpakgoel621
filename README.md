@@ -32,9 +32,6 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pushpakgoel621&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pushpakgoel621&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -55,6 +52,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 ![Pushpak Goel Internship Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.png)  
 ![Pushpak Goel Internship Certificate PM](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.png)  
 ![SIH24 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.png)  
+<img src="https://raw.githubusercontent.com/pushpakgoel621/main/assets/SIH24_Certificate.png" width="400">
 
 
 
@@ -62,15 +60,15 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pushpak.goel.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pushpakgoel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpakgoel56) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/goel_pushpak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushpakgoel56@gmail.com) 
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 🚀 _Thanks for stopping by! 
 Let's build something amazing together!_ ✨
-
 
 <!---
 pushpakgoel621/pushpakgoel621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-# 📊 GitHub Stats:
-
-
