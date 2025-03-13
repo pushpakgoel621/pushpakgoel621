@@ -40,18 +40,16 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 [📄 Download My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)  
 
 
-
-![Hacktara23' Runner-Up Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Hacktara23_Runner-Up_certificate.jpeg)
-![Product Matters 4.0 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Product_Matters_4.0_Certificate.png)
-![Hack2skill Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Hack2skill-Certificate.png)
-![Pushpak Goel Tiranga Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/PUSHPAK_GOEL_Tiranga_certificate.png)
-![Yoga Day 24 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Yoga_Day_24_Certificate.png)
-![QuizX Certificate of Participation](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/QuizX_certificate_of_participation.jpg)
-![Machine Learning Techniques Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Teachnook.jpg)
-![Techstars Startup Weekend Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Techstars_startup_Weekend_Certificate.jpeg)
-![Pushpak Goel Internship Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.png)  
-![Pushpak Goel Internship Certificate PM](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.png)  
-![SIH24 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.png)  
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Hacktara23_Runner-Up_certificate.jpeg" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Product_Matters_4.0_Certificate.png" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Hack2skill-Certificate.png" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/PUSHPAK_GOEL_Tiranga_certificate.png" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Yoga_Day_24_Certificate.png" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/QuizX_certificate_of_participation.jpg" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Teachnook.jpg" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Techstars_startup_Weekend_Certificate.jpeg" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.png" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.png" width="400">
 <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.png" width="400">
 
 
