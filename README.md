@@ -52,7 +52,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 ![Pushpak Goel Internship Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.png)  
 ![Pushpak Goel Internship Certificate PM](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.png)  
 ![SIH24 Certificate](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.png)  
-<img src="https://raw.githubusercontent.com/pushpakgoel621/main/assets/SIH24_Certificate.png" width="400">
+<img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.png" width="400">
 
 
 
