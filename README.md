@@ -9,6 +9,9 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 🔹 **President @ Innocrats Technical Club** – Driving technical initiatives & mentorship.  
 🔹 **AI Agents Consultant** – Creating dynamic websites & AI-driven applications.
 
+[📄 Download My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)  
+
+
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,10 +38,7 @@ I'm passionate about **AI, Web Development, and Product Engineering**. I thrive 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pushpakgoel621&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
-
-[📄 Download My Resume](https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Resume.pdf)  
-
+## 📜 Cirtificates
 
 <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Hacktara23_Runner-Up_certificate.jpeg" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Product_Matters_4.0_Certificate.png" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Hack2skill-Certificate.png" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/PUSHPAK_GOEL_Tiranga_certificate.png" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Yoga_Day_24_Certificate.png" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/QuizX_certificate_of_participation.jpg" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Teachnook.jpg" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Techstars_startup_Weekend_Certificate.jpeg" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate.png" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Pushpak_Goel_Internship_Certificate_PM.png" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/SIH24_Certificate.png" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/Devtown.png" width="400"> <img src="https://raw.githubusercontent.com/pushpakgoel621/pushpakgoel621/main/assets/certificate.jpg" width="400">
 
