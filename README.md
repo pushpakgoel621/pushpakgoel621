@@ -1,5 +1,5 @@
 # Hi there, I'm Pushpak Goel! 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=F75C7E&width=435&lines=Artificial+Intelligence;Machine+Learning;AI+Agents)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=400&color=F75C7E&width=435&lines=Artificial+Intelligence;Machine+Learning;AI+Agents)
 
 ## 🚀 About Me
 
